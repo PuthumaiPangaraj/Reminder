@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Souvenir</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Remainder All</string>
+    <string name="title_section3">Exit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example"></string>
+
+    <string name="action_settings">Home</string>
+    <string name="title_activity_birthday">Birthday</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_anniv">Anniv</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="title_activity_remainder_list">RemainderList</string>
+</resources>
